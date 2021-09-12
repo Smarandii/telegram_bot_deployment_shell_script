@@ -5,7 +5,7 @@ Script for automate routine server deployment commands in ubuntu
 ## How to use:
 1. Run this command in linux: 
 ```shell 
-  user$ . install.bin
+. install.bin
 ``` 
 
 ## Feel free to hardcode your own variables in!
