@@ -3,8 +3,9 @@ Script for automate routine server deployment commands in ubuntu
 
 
 ## How to use:
-1. Run this command in linux: 
+1. Run this commands in linux: 
 ```shell 
+git clone https://github.com/Smarandii/InstallationShellScript
 . install.bin
 ``` 
 
