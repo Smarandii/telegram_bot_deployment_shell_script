@@ -1,4 +1,4 @@
-# InstallationShellScript
+# telegram_bot_deployment_shell_script
 Script for automate routine server deployment commands in ubuntu
 
 
