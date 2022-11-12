@@ -5,6 +5,7 @@ read USER
 echo -e "Please enter github token: "
 read TOKEN
 echo -e "Please enter REPONAME:"
+read REPONAME
 cd /Your/Directory/Here
 git clone https://$TOKEN:x-oauth-basic@github.com/$USER/$REPONAME
 ls
