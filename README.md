@@ -1,16 +1,17 @@
 # telegram_bot_deployment_shell_script
-Script for automate routine server deployment commands in ubuntu
+Script for automate routine of telegram bots deployment on ubuntu serveru
 
 
 ## How to use:
 1. Run this commands in linux: 
 ```shell 
-git clone https://github.com/Smarandii/InstallationShellScript
+git clone https://github.com/Smarandii/telegram_bot_deployment_shell_script
 . install.bin
 ``` 
 
 ## Feel free to hardcode your own variables in!
 That way script will be fully independent from user inputs :)
+This script should be used in every telegram-bot project that is going to be deployed on ubuntu server. 
 
 ```shell
 #!/bin/bash
